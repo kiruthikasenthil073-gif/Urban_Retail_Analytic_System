@@ -17,4 +17,4 @@ It checks stock, generates tracking numbers, and manages inventory.
 3. Check the output
 
 ## Created By
-Kruthika Senthil
+Kiruthika Senthilkumar
